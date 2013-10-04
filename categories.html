@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Categories
+title: Blog
+tagline: My Chinese Blog 
 header: Posts By Category
 group: navigation
 ---
@@ -11,12 +12,12 @@ group: navigation
   {% include JB/categories_list %}
 </ul>
 
-
 {% for category in site.categories %} 
   <h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" }}</h2>
   <ul>
     {% assign pages_list = category[1] %}  
     {% include JB/pages_list %}
-  </ul>
+  </ul>  
+
 {% endfor %}
 

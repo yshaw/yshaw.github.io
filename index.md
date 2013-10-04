@@ -13,3 +13,8 @@ My research interests include:
 * Algorithmic game theory and Computational Economics  
 * Complex Systems and Complex Networks  
 * Computational Neuroscience  
+
+####Contacts  
+*Email*: shawcsn at gmail dot com  
+*Address*: No. 10, Shangdi 10th Street, Haidian District, 
+Beijing 100085, China.

@@ -13,10 +13,6 @@ group: navigation
 Please see my [CV](/files/CV-xiao.pdf) for details.  
 
 
-####Contacts  
-*Email*: shawcsn at gmail dot com  
-*Address*: Building 2, No. 5 Dan Ling Street, Haidian District Beijing, P.R. China, 100080.
-
 ####Social Media
 
 - [Linkedin](http://www.linkedin.com/pub/shaw-yang/1b/a74/b38)
